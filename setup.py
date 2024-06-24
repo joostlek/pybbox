@@ -10,5 +10,7 @@ setup(
   url = 'https://github.com/HydrelioxGitHub/pybbox', # use the URL to the github repo
   download_url = 'https://github.com/HydrelioxGitHub/pybbox/tarball/0.0.5-alpha',
   keywords = ['bbox', 'Bouygues', 'routeur', 'API'], # arbitrary keywords
-  classifiers = [],
+  classifiers = [
+    'License :: OSI Approved :: MIT License'
+  ],
 )
